@@ -1,7 +1,7 @@
 📊 YouTube Trending Data Insights (UK)
 🧠 Overview
 
-Exploratory analysis of the YouTube Trending Videos (UK) dataset using Python, pandas, and matplotlib to understand what drives video virality and audience engagement.
+Exploratory analysis of the YouTube Trending Videos (UK) dataset using Python, pandas, and matplotlib to understand what drives video virality and audience engagement for October 2025.
 
 🎯 Objectives
 
